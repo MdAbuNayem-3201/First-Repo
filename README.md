@@ -1,5 +1,5 @@
 # First-Repo
-This my first repository.....
+This is my first repository.....
 <br>
 Author - Nayem
 
